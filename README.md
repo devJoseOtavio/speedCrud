@@ -1,3 +1,3 @@
 # speedCrud
 
-Crud básico feito na mão para relembrar algumas práticas em java
+Crud básico feito na mão para relembrar algumas práticas em java com jdbc
